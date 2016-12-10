@@ -33,7 +33,7 @@
   </setupTask>
   <version name="luna"
       label="Luna"
-      requiredJavaVersion="1.6">
+      requiredJavaVersion="1.8">
     <setupTask
         xsi:type="setup.p2:P2Task"
         label="${scope.product.label} (${scope.product.version.label})">
